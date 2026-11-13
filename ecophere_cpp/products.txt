@@ -1,0 +1,5 @@
+1|Recycled Fabric Backpack|Accessories|1299|20
+2|Bamboo Water Bottle|Home Products|499|30
+3|Organic Cotton T-Shirt|Clothing|799|25
+4|Reusable Shopping Bag|Accessories|199|50
+5|Bamboo Toothbrush|Personal Care|99|100
